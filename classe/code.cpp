@@ -44,4 +44,4 @@ int main(){
     shmctl(shmID,IPC_RMID,NULL);
 
     return 0;
-}
+}//compiler sudo apt-get install g++ en terminal
