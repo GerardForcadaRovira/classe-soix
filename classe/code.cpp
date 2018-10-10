@@ -36,7 +36,7 @@ int main(){
             }
 
         }
-        std::cout<< hpEstructura <<std::endl;
+        std::cout<< *hpEstructura <<std::endl;
     }while(hpEstructura>0)
     int status;
     wait(&status);
